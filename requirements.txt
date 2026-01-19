@@ -8,9 +8,8 @@ bokeh==3.6.2
 bqplot==0.12.44
 branca==0.8.1
 cachetools==5.5.0
-Cartopy==0.24.1
-certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1734380492396/work/certifi
-cftime @ file:///D:/bld/cftime_1725400578194/work
+certifi
+cftime
 charset-normalizer==3.4.1
 click==8.1.8
 click-plugins==1.1.1
@@ -31,9 +30,7 @@ earthengine-api==1.4.5
 eerepr==0.1.0
 exceptiongroup==1.2.2
 executing==2.1.0
-fiona==1.10.1
 flatbuffers==24.12.23
-folium==0.12.1
 fonttools==4.55.3
 fsspec==2024.12.0
 future==1.0.0
@@ -93,7 +90,6 @@ ml-dtypes==0.4.1
 multipledispatch==1.0.0
 namex==0.0.8
 nest-asyncio==1.6.0
-netCDF4 @ file:///D:/bld/netcdf4_1733254719583/work
 networkx==3.4.2
 numba==0.60.0
 numpy==2.0.0
@@ -122,7 +118,6 @@ Pygments==2.19.1
 pyogrio==0.10.0
 pyparsing==3.2.1
 pyperclip==1.9.0
-pyproj==3.7.0
 PyQt6==6.8.0
 PyQt6-Qt6==6.8.1
 PyQt6_sip==13.9.1
@@ -131,10 +126,8 @@ python-box==7.3.1
 python-dateutil==2.9.0.post0
 pytz==2024.2
 pyviz_comms==3.0.4
-pywin32==308
 PyYAML==6.0.2
 pyzmq==26.2.0
-rasterio==1.4.3
 ratelim==0.1.6
 requests==2.32.3
 rich==13.9.4
@@ -144,15 +137,14 @@ scipy==1.15.1
 scooby==0.10.0
 seaborn==0.13.2
 seasonal==0.3.1
-shapely==2.0.6
 six==1.17.0
 stack-data==0.6.3
 tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
-tensorflow-io-gcs-filesystem==0.31.0
-tensorflow_intel==2.18.0
+tensorflow-io-gcs-filesystem
+tensorflow_intel
 termcolor==2.5.0
 threadpoolctl==3.5.0
 toolz==1.0.0
